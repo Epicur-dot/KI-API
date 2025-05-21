@@ -1,0 +1,4 @@
+import requests
+import json
+
+API_Key = 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
